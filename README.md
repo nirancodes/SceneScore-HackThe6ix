@@ -5,7 +5,10 @@ SceneScore matches your personal Spotify playlist songs with the emotional vibe 
 
 Watch the Demo here:
 
-[![Watch the demo](./SceneScoreDevPostThumbnail.png)](https://vimeo.com/1102849578)
+[![Watch the demo](./SceneScoreDevPostThumbnail.png)](https://vimeo.com/1102897301?share=copy)
+Using English-language songs
+[![Watch the demo](./SceneScoreDevPostThumbnail.png)](https://vimeo.com/1102849578 )
+Using songs of other languages - emotions translated back into English summaries!!
 
 ---
 
