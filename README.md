@@ -3,6 +3,8 @@
 Imagine this: You’re scrolling endlessly through Spotify, trying to find that perfect song for your Instagram story or photo. Hours wasted, mood lost. Until now.  
 SceneScore matches your personal Spotify playlist songs with the emotional vibe of your photo — no more guesswork, just seamless, personalized soundtrack curation.
 
+[![Watch the demo](https://i.vimeocdn.com/video/your-thumbnail-image.jpg)](https://vimeo.com/1102849578)
+
 ---
 
 ## 🎤 Why Lyrics Were the Next Best Signal
